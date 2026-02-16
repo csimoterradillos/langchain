@@ -1,0 +1,1 @@
+Prácticas de curso de [LangChain, LangGraph y Agentes IA con Python](https://www.udemy.com/course-dashboard-redirect/?course_id=6709587)
